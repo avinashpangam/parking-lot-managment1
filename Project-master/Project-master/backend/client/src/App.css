@@ -1,0 +1,7 @@
+.grid-container {
+  grid-row-gap: 50px;
+}
+
+.container {
+  align-content:  space-between ;
+}
